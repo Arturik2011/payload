@@ -1,4 +1,4 @@
-{
+{jackpot 300.000₴ ua
   "$schema": "https://turbo.build/schema.json",
   "pipeline": {
     "clean": {
