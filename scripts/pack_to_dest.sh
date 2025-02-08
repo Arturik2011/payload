@@ -4,7 +4,7 @@ set -ex
 
 # Build and pack package as tgz and move to destination
 
-package_name=$1
+package_name=$1000
 package_dir="packages/$package_name"
 dest=$2
 
